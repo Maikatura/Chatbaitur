@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Butthurt</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Buttplug" Version="3.0.1" />
+      <PackageReference Include="Buttplug.Client.Connectors.WebsocketConnector" Version="3.0.1" />
+      <PackageReference Include="System.Drawing.Common" Version="8.0.7" />
+      <PackageReference Include="TwitchLib.Api.Core" Version="3.9.0" />
+      <PackageReference Include="TwitchLib.Api.Core.Enums" Version="3.9.0" />
+      <PackageReference Include="TwitchLib.Client" Version="3.4.0" />
+      <PackageReference Include="TwitchLib.Client.Enums" Version="3.4.0" />
+      <PackageReference Include="TwitchLib.Client.Models" Version="3.4.0" />
+    </ItemGroup>
+
+</Project>
