@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbator", "Chatbator\Chatbator.csproj", "{3B160422-3969-4AA4-B6F8-0995018B0216}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbaitur", "Chatbaitur\Chatbaitur.csproj", "{3B160422-3969-4AA4-B6F8-0995018B0216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

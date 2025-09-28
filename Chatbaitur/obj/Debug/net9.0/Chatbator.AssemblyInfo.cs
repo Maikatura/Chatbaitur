@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chatbator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60948b9bbf49b4ac8f927b2d45fb5d28ba74878e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69769ece6cc54e7812cf15977feab77cf035e194")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chatbator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chatbator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

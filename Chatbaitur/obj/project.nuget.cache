@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MsqjXchIfKE=",
+  "dgSpecHash": "MMBZSykTjDU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\Chatbator.csproj",
+  "projectFilePath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\Chatbaitur.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maika\\.nuget\\packages\\buttplug\\3.0.1\\buttplug.3.0.1.nupkg.sha512",
     "C:\\Users\\maika\\.nuget\\packages\\buttplug.client.connectors.websocketconnector\\3.0.1\\buttplug.client.connectors.websocketconnector.3.0.1.nupkg.sha512",
@@ -101,9 +101,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Net.Http' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
-      "projectPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\Chatbator.csproj",
+      "projectPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\Chatbaitur.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\Chatbator.csproj",
+      "filePath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\Chatbaitur.csproj",
       "libraryId": "System.Net.Http",
       "targetGraphs": [
         "net9.0"
@@ -113,9 +113,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'System.Text.RegularExpressions' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
-      "projectPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\Chatbator.csproj",
+      "projectPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\Chatbaitur.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\Chatbator.csproj",
+      "filePath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\Chatbaitur.csproj",
       "libraryId": "System.Text.RegularExpressions",
       "targetGraphs": [
         "net9.0"

@@ -5327,11 +5327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\Chatbator.csproj",
-      "projectName": "Chatbator",
-      "projectPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\Chatbator.csproj",
+      "projectUniqueName": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\Chatbaitur.csproj",
+      "projectName": "Chatbaitur",
+      "projectPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\Chatbaitur.csproj",
       "packagesPath": "C:\\Users\\maika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbator\\obj\\",
+      "outputPath": "C:\\Users\\maika\\RiderProjects\\Chatbrator\\Chatbaitur\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maika\\AppData\\Roaming\\NuGet\\NuGet.Config"
